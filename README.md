@@ -1,2 +1,1 @@
-# playing-with-react
-Trying React on a Rails application
+# Playing with React in a Rails application
